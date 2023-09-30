@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    
+}
+
+.container {
+    border: 2px solid black ;
+    max-width: 800px;
+    margin: 20px auto;
+    background-color:white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+}
+
+.header {
+    text-align: center;
+}
+
+.contact-info {
+    text-align: center;
+}
+
+.contact-info p {
+    margin: 5px;
+}
+
+.section {
+    margin: 20px 0;
+}
+
+.section h2 {
+    margin-bottom: 10px;
+}
+
+.section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.section ul li {
+    margin-bottom: 5px;
+}
+
+.section p {
+    margin-bottom: 10px;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #777;
+}
